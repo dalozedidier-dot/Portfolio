@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portfolio GitHub</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="container">
+    <div class="brand">
+      <div class="brand__title" id="pageTitle">Mes projets</div>
+      <div class="brand__subtitle" id="pageSubtitle"></div>
+    </div>
+    <div class="meta">
+      <a id="profileLink" href="#" target="_blank" rel="noreferrer">Profil GitHub</a>
+      <span class="dot">·</span>
+      <span id="lastUpdated">Chargement…</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls card">
+      <div class="controls__row">
+        <input id="q" type="search" placeholder="Rechercher (nom, description, topic)..." />
+        <select id="sort">
+          <option value="updated">Tri: activité récente</option>
+          <option value="stars">Tri: étoiles</option>
+          <option value="name">Tri: nom</option>
+        </select>
+      </div>
+      <div class="controls__row">
+        <select id="lang">
+          <option value="">Langage: tous</option>
+        </select>
+        <select id="topic">
+          <option value="">Topic: tous</option>
+        </select>
+        <label class="chk">
+          <input id="hideForks" type="checkbox" />
+          Masquer forks
+        </label>
+        <label class="chk">
+          <input id="hideArchived" type="checkbox" />
+          Masquer archivés
+        </label>
+      </div>
+    </section>
+
+    <section id="featured" class="grid" aria-label="Projets à la une"></section>
+
+    <section class="sectionTitle">
+      <h2>Catalogue</h2>
+      <div id="count"></div>
+    </section>
+
+    <section id="grid" class="grid" aria-label="Liste de projets"></section>
+
+    <footer class="footer">
+      <div>
+        Généré avec un template statique. Tu peux modifier librement.
+      </div>
+    </footer>
+  </main>
+
+  <script src="config.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,6 +1,6 @@
 // Configuration simple
 // Remplace par ton pseudo GitHub
-const GITHUB_USERNAME = "CHANGE_ME";
+const GITHUB_USERNAME = "dalozedidier-dot";
 
 // true = charge data/repos.json (généré par CI)
 // false = appelle l'API GitHub depuis le navigateur

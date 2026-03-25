@@ -1,5 +1,33 @@
 [
   {
+    "name": "MeteoVoid",
+    "full_name": "dalozedidier-dot/MeteoVoid",
+    "html_url": "https://github.com/dalozedidier-dot/MeteoVoid",
+    "description": "MeteoVoid is a lightweight, auditable Python toolkit for detecting “data voids” (unexpected gaps) and simple upstream anomaly signals in meteorological time series",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-03-24T20:48:23Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
+    "name": "BareFlux",
+    "full_name": "dalozedidier-dot/BareFlux",
+    "html_url": "https://github.com/dalozedidier-dot/BareFlux",
+    "description": "Lentille qui zoome sur les failles et ruptures en réseau (graphes multivariés). Visuel, précis, scientifique — parfait pour l’observation des liens qui cassent.",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-03-24T20:29:31Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
     "name": "Portfolio",
     "full_name": "dalozedidier-dot/Portfolio",
     "html_url": "https://github.com/dalozedidier-dot/Portfolio",
@@ -8,7 +36,7 @@
     "topics": [],
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-03-23T04:37:44Z",
+    "updated_at": "2026-03-24T04:26:47Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -140,20 +168,6 @@
     "is_template": false
   },
   {
-    "name": "MeteoVoid",
-    "full_name": "dalozedidier-dot/MeteoVoid",
-    "html_url": "https://github.com/dalozedidier-dot/MeteoVoid",
-    "description": "MeteoVoid is a lightweight, auditable Python toolkit for detecting “data voids” (unexpected gaps) and simple upstream anomaly signals in meteorological time series",
-    "language": "Python",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-02-14T22:06:55Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
     "name": "EchoStack",
     "full_name": "dalozedidier-dot/EchoStack",
     "html_url": "https://github.com/dalozedidier-dot/EchoStack",
@@ -247,20 +261,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-02-03T20:35:03Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "BareFlux",
-    "full_name": "dalozedidier-dot/BareFlux",
-    "html_url": "https://github.com/dalozedidier-dot/BareFlux",
-    "description": "Lentille qui zoome sur les failles et ruptures en réseau (graphes multivariés). Visuel, précis, scientifique — parfait pour l’observation des liens qui cassent.",
-    "language": "Python",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-02-03T07:27:35Z",
     "archived": false,
     "fork": false,
     "is_template": false

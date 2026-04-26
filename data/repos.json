@@ -1,5 +1,19 @@
 [
   {
+    "name": "Portfolio",
+    "full_name": "dalozedidier-dot/Portfolio",
+    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
+    "description": "Portfolio",
+    "language": "JavaScript",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-04-25T04:44:07Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
     "name": "CumulativeSymbolicThreshold",
     "full_name": "dalozedidier-dot/CumulativeSymbolicThreshold",
     "html_url": "https://github.com/dalozedidier-dot/CumulativeSymbolicThreshold",
@@ -9,20 +23,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-04-24T19:46:11Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "Portfolio",
-    "full_name": "dalozedidier-dot/Portfolio",
-    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
-    "description": "Portfolio",
-    "language": "JavaScript",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-04-24T05:16:53Z",
     "archived": false,
     "fork": false,
     "is_template": false

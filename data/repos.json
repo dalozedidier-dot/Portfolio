@@ -1,19 +1,5 @@
 [
   {
-    "name": "Portfolio",
-    "full_name": "dalozedidier-dot/Portfolio",
-    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
-    "description": "Portfolio",
-    "language": "JavaScript",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-06-03T07:11:21Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
     "name": "CumulativeSymbolicThreshold",
     "full_name": "dalozedidier-dot/CumulativeSymbolicThreshold",
     "html_url": "https://github.com/dalozedidier-dot/CumulativeSymbolicThreshold",
@@ -22,7 +8,35 @@
     "topics": [],
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-04-24T19:46:11Z",
+    "updated_at": "2026-06-04T21:52:37Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
+    "name": "Amplification-Barometer",
+    "full_name": "dalozedidier-dot/Amplification-Barometer",
+    "html_url": "https://github.com/dalozedidier-dot/Amplification-Barometer",
+    "description": "A modular, auditable barometer for amplification-driven systems: computes time-series composites (P, O, E, R, G) and derived indicators (@ = P/O, Δd), with reproducible synthetic regimes, stress tests, and CI-ready tooling for transparent calibration and anti-gaming checks.",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-06-04T10:23:19Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
+    "name": "Portfolio",
+    "full_name": "dalozedidier-dot/Portfolio",
+    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
+    "description": "Portfolio",
+    "language": "JavaScript",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-06-04T06:56:04Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -65,20 +79,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-03-08T16:30:04Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "Amplification-Barometer",
-    "full_name": "dalozedidier-dot/Amplification-Barometer",
-    "html_url": "https://github.com/dalozedidier-dot/Amplification-Barometer",
-    "description": "A modular, auditable barometer for amplification-driven systems: computes time-series composites (P, O, E, R, G) and derived indicators (@ = P/O, Δd), with reproducible synthetic regimes, stress tests, and CI-ready tooling for transparent calibration and anti-gaming checks.",
-    "language": "Python",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-02-24T03:48:54Z",
     "archived": false,
     "fork": false,
     "is_template": false

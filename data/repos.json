@@ -8,7 +8,21 @@
     "topics": [],
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-06-24T01:16:29Z",
+    "updated_at": "2026-06-25T00:57:04Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
+    "name": "Portfolio",
+    "full_name": "dalozedidier-dot/Portfolio",
+    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
+    "description": "Portfolio",
+    "language": "JavaScript",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-06-24T06:15:24Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -37,20 +51,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-06-23T09:54:08Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "Portfolio",
-    "full_name": "dalozedidier-dot/Portfolio",
-    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
-    "description": "Portfolio",
-    "language": "JavaScript",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-06-23T06:18:49Z",
     "archived": false,
     "fork": false,
     "is_template": false

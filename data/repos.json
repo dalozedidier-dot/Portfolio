@@ -1,5 +1,19 @@
 [
   {
+    "name": "Portfolio",
+    "full_name": "dalozedidier-dot/Portfolio",
+    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
+    "description": "Portfolio",
+    "language": "JavaScript",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-04T05:54:28Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
     "name": "coherence-tables",
     "full_name": "dalozedidier-dot/coherence-tables",
     "html_url": "https://github.com/dalozedidier-dot/coherence-tables",
@@ -9,20 +23,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-07-03T19:23:18Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "Portfolio",
-    "full_name": "dalozedidier-dot/Portfolio",
-    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
-    "description": "Portfolio",
-    "language": "JavaScript",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-03T06:03:44Z",
     "archived": false,
     "fork": false,
     "is_template": false

@@ -1,5 +1,47 @@
 [
   {
+    "name": "MeteoVoid",
+    "full_name": "dalozedidier-dot/MeteoVoid",
+    "html_url": "https://github.com/dalozedidier-dot/MeteoVoid",
+    "description": "MeteoVoid is a lightweight, auditable Python toolkit for detecting “data voids” (unexpected gaps) and simple upstream anomaly signals in meteorological time series",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-11T23:33:03Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
+    "name": "AstroOracle",
+    "full_name": "dalozedidier-dot/AstroOracle",
+    "html_url": "https://github.com/dalozedidier-dot/AstroOracle",
+    "description": "AstroOracle is a Python package for structured and reproducible astrological analysis, designed for programmatic use, experimentation, and automation.",
+    "language": "HTML",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-11T22:46:57Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
+    "name": "CumulativeSymbolicThreshold",
+    "full_name": "dalozedidier-dot/CumulativeSymbolicThreshold",
+    "html_url": "https://github.com/dalozedidier-dot/CumulativeSymbolicThreshold",
+    "description": "A falsifiable protocol for O R I dynamics",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-11T22:16:54Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
     "name": "MCS",
     "full_name": "dalozedidier-dot/MCS",
     "html_url": "https://github.com/dalozedidier-dot/MCS",
@@ -8,7 +50,7 @@
     "topics": [],
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-07-11T00:56:38Z",
+    "updated_at": "2026-07-11T09:17:34Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -22,7 +64,7 @@
     "topics": [],
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-07-10T06:14:41Z",
+    "updated_at": "2026-07-11T05:21:57Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -37,20 +79,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-07-09T23:18:50Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "MeteoVoid",
-    "full_name": "dalozedidier-dot/MeteoVoid",
-    "html_url": "https://github.com/dalozedidier-dot/MeteoVoid",
-    "description": "MeteoVoid is a lightweight, auditable Python toolkit for detecting “data voids” (unexpected gaps) and simple upstream anomaly signals in meteorological time series",
-    "language": "Python",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-07T18:03:54Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -79,20 +107,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-07-03T19:23:18Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "CumulativeSymbolicThreshold",
-    "full_name": "dalozedidier-dot/CumulativeSymbolicThreshold",
-    "html_url": "https://github.com/dalozedidier-dot/CumulativeSymbolicThreshold",
-    "description": "A falsifiable protocol for O R I dynamics",
-    "language": "Python",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-02T17:49:47Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -163,20 +177,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-02-24T00:23:02Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "AstroOracle",
-    "full_name": "dalozedidier-dot/AstroOracle",
-    "html_url": "https://github.com/dalozedidier-dot/AstroOracle",
-    "description": "AstroOracle is a Python package for structured and reproducible astrological analysis, designed for programmatic use, experimentation, and automation.",
-    "language": "HTML",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-02-24T00:22:38Z",
     "archived": false,
     "fork": false,
     "is_template": false

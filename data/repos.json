@@ -1,5 +1,19 @@
 [
   {
+    "name": "CumulativeSymbolicThreshold",
+    "full_name": "dalozedidier-dot/CumulativeSymbolicThreshold",
+    "html_url": "https://github.com/dalozedidier-dot/CumulativeSymbolicThreshold",
+    "description": "A falsifiable protocol for O R I dynamics",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-14T17:42:42Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
     "name": "Portfolio",
     "full_name": "dalozedidier-dot/Portfolio",
     "html_url": "https://github.com/dalozedidier-dot/Portfolio",
@@ -8,7 +22,7 @@
     "topics": [],
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-07-13T05:48:05Z",
+    "updated_at": "2026-07-14T05:09:17Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -37,20 +51,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-07-11T22:46:57Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "CumulativeSymbolicThreshold",
-    "full_name": "dalozedidier-dot/CumulativeSymbolicThreshold",
-    "html_url": "https://github.com/dalozedidier-dot/CumulativeSymbolicThreshold",
-    "description": "A falsifiable protocol for O R I dynamics",
-    "language": "Python",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-11T22:16:54Z",
     "archived": false,
     "fork": false,
     "is_template": false

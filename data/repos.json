@@ -1,5 +1,19 @@
 [
   {
+    "name": "Portfolio",
+    "full_name": "dalozedidier-dot/Portfolio",
+    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
+    "description": "Portfolio",
+    "language": "JavaScript",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-19T05:31:19Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
     "name": "SOST-Captain-America",
     "full_name": "dalozedidier-dot/SOST-Captain-America",
     "html_url": "https://github.com/dalozedidier-dot/SOST-Captain-America",
@@ -51,20 +65,6 @@
     "stargazers_count": 1,
     "forks_count": 0,
     "updated_at": "2026-07-19T03:15:16Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "Portfolio",
-    "full_name": "dalozedidier-dot/Portfolio",
-    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
-    "description": "Portfolio",
-    "language": "JavaScript",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-18T05:04:54Z",
     "archived": false,
     "fork": false,
     "is_template": false

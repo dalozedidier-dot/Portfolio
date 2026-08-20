@@ -1,5 +1,19 @@
 [
   {
+    "name": "CumulativeSymbolicThreshold",
+    "full_name": "dalozedidier-dot/CumulativeSymbolicThreshold",
+    "html_url": "https://github.com/dalozedidier-dot/CumulativeSymbolicThreshold",
+    "description": "A falsifiable protocol for O R I dynamics",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-08-19T23:58:45Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
     "name": "ORI-C",
     "full_name": "dalozedidier-dot/ORI-C",
     "html_url": "https://github.com/dalozedidier-dot/ORI-C",
@@ -8,7 +22,7 @@
     "topics": [],
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-08-19T03:02:19Z",
+    "updated_at": "2026-08-19T16:05:38Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -22,7 +36,7 @@
     "topics": [],
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-08-18T03:08:00Z",
+    "updated_at": "2026-08-19T03:10:48Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -51,20 +65,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-07-28T16:18:06Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "CumulativeSymbolicThreshold",
-    "full_name": "dalozedidier-dot/CumulativeSymbolicThreshold",
-    "html_url": "https://github.com/dalozedidier-dot/CumulativeSymbolicThreshold",
-    "description": "A falsifiable protocol for O R I dynamics",
-    "language": "Python",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-24T18:34:26Z",
     "archived": false,
     "fork": false,
     "is_template": false

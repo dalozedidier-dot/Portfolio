@@ -1,5 +1,33 @@
 [
   {
+    "name": "ChaosTrace",
+    "full_name": "dalozedidier-dot/ChaosTrace",
+    "html_url": "https://github.com/dalozedidier-dot/ChaosTrace",
+    "description": "ChaosTrace is a lightweight Python toolkit for detecting regime shifts, early foil drop events, and hidden anomalies in high frequency multivariate sailing telemetry using sweeps, phase space reconstruction, and chaos inspired metrics.",
+    "language": "HTML",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-09-06T01:27:04Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
+    "name": "AstroOracle",
+    "full_name": "dalozedidier-dot/AstroOracle",
+    "html_url": "https://github.com/dalozedidier-dot/AstroOracle",
+    "description": "AstroOracle is a Python package for structured and reproducible astrological analysis, designed for programmatic use, experimentation, and automation.",
+    "language": "HTML",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-09-06T00:59:48Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
     "name": "Portfolio",
     "full_name": "dalozedidier-dot/Portfolio",
     "html_url": "https://github.com/dalozedidier-dot/Portfolio",
@@ -8,7 +36,21 @@
     "topics": [],
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-09-03T07:10:52Z",
+    "updated_at": "2026-09-06T00:21:13Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
+    "name": "ORI-C",
+    "full_name": "dalozedidier-dot/ORI-C",
+    "html_url": "https://github.com/dalozedidier-dot/ORI-C",
+    "description": "ORI-C",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-09-05T19:25:27Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -140,20 +182,6 @@
     "is_template": false
   },
   {
-    "name": "ORI-C",
-    "full_name": "dalozedidier-dot/ORI-C",
-    "html_url": "https://github.com/dalozedidier-dot/ORI-C",
-    "description": "ORI-C",
-    "language": "Python",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-08-22T18:16:27Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
     "name": "MeteoVoid",
     "full_name": "dalozedidier-dot/MeteoVoid",
     "html_url": "https://github.com/dalozedidier-dot/MeteoVoid",
@@ -191,20 +219,6 @@
     "stargazers_count": 1,
     "forks_count": 0,
     "updated_at": "2026-07-19T03:15:50Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "AstroOracle",
-    "full_name": "dalozedidier-dot/AstroOracle",
-    "html_url": "https://github.com/dalozedidier-dot/AstroOracle",
-    "description": "AstroOracle is a Python package for structured and reproducible astrological analysis, designed for programmatic use, experimentation, and automation.",
-    "language": "HTML",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-11T22:46:57Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -275,20 +289,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-03-08T16:30:04Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "ChaosTrace",
-    "full_name": "dalozedidier-dot/ChaosTrace",
-    "html_url": "https://github.com/dalozedidier-dot/ChaosTrace",
-    "description": "ChaosTrace is a lightweight Python toolkit for detecting regime shifts, early foil drop events, and hidden anomalies in high frequency multivariate sailing telemetry using sweeps, phase space reconstruction, and chaos inspired metrics.",
-    "language": "HTML",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-02-24T00:23:02Z",
     "archived": false,
     "fork": false,
     "is_template": false

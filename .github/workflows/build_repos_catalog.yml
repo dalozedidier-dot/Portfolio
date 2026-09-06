@@ -27,7 +27,8 @@ jobs:
 
       - name: Generate data/repos.json
         env:
-          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME || '' }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           python tools/build_catalog.py
 

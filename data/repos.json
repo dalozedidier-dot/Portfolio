@@ -1,5 +1,47 @@
 [
   {
+    "name": "HPI",
+    "full_name": "dalozedidier-dot/HPI",
+    "html_url": "https://github.com/dalozedidier-dot/HPI",
+    "description": null,
+    "language": "HTML",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-09-08T05:40:28Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
+    "name": "ORI-C",
+    "full_name": "dalozedidier-dot/ORI-C",
+    "html_url": "https://github.com/dalozedidier-dot/ORI-C",
+    "description": "ORI-C",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-09-07T09:36:34Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
+    "name": "Portfolio",
+    "full_name": "dalozedidier-dot/Portfolio",
+    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
+    "description": "Portfolio",
+    "language": "JavaScript",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-09-07T07:19:05Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
     "name": "Daloze-Didier-Photographie",
     "full_name": "dalozedidier-dot/Daloze-Didier-Photographie",
     "html_url": "https://github.com/dalozedidier-dot/Daloze-Didier-Photographie",
@@ -56,20 +98,6 @@
     "is_template": false
   },
   {
-    "name": "Portfolio",
-    "full_name": "dalozedidier-dot/Portfolio",
-    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
-    "description": "Portfolio",
-    "language": "JavaScript",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-09-06T07:07:04Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
     "name": "AstroOracle",
     "full_name": "dalozedidier-dot/AstroOracle",
     "html_url": "https://github.com/dalozedidier-dot/AstroOracle",
@@ -79,20 +107,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-09-06T00:59:48Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "ORI-C",
-    "full_name": "dalozedidier-dot/ORI-C",
-    "html_url": "https://github.com/dalozedidier-dot/ORI-C",
-    "description": "ORI-C",
-    "language": "Python",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-09-05T19:25:27Z",
     "archived": false,
     "fork": false,
     "is_template": false

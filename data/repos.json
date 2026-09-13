@@ -1,14 +1,14 @@
 [
   {
-    "name": "HPI",
-    "full_name": "dalozedidier-dot/HPI",
-    "html_url": "https://github.com/dalozedidier-dot/HPI",
-    "description": null,
+    "name": "les-esprits-pluriels",
+    "full_name": "dalozedidier-dot/les-esprits-pluriels",
+    "html_url": "https://github.com/dalozedidier-dot/les-esprits-pluriels",
+    "description": "https://les-esprits-pluriels.be/",
     "language": "HTML",
     "topics": [],
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-09-11T10:34:36Z",
+    "updated_at": "2026-09-13T05:16:04Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -22,7 +22,21 @@
     "topics": [],
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-09-11T07:16:50Z",
+    "updated_at": "2026-09-12T07:08:45Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
+    "name": "HPI",
+    "full_name": "dalozedidier-dot/HPI",
+    "html_url": "https://github.com/dalozedidier-dot/HPI",
+    "description": null,
+    "language": "HTML",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-09-11T10:34:36Z",
     "archived": false,
     "fork": false,
     "is_template": false

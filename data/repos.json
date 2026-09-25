@@ -1,5 +1,19 @@
 [
   {
+    "name": "les-esprits-pluriels",
+    "full_name": "dalozedidier-dot/les-esprits-pluriels",
+    "html_url": "https://github.com/dalozedidier-dot/les-esprits-pluriels",
+    "description": "https://les-esprits-pluriels.be/",
+    "language": "HTML",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-09-25T07:09:37Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
     "name": "Portfolio",
     "full_name": "dalozedidier-dot/Portfolio",
     "html_url": "https://github.com/dalozedidier-dot/Portfolio",
@@ -8,7 +22,7 @@
     "topics": [],
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-09-23T07:44:54Z",
+    "updated_at": "2026-09-24T07:35:29Z",
     "archived": false,
     "fork": false,
     "is_template": false
@@ -37,20 +51,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-09-17T18:10:30Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "les-esprits-pluriels",
-    "full_name": "dalozedidier-dot/les-esprits-pluriels",
-    "html_url": "https://github.com/dalozedidier-dot/les-esprits-pluriels",
-    "description": "https://les-esprits-pluriels.be/",
-    "language": "HTML",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-09-17T12:19:29Z",
     "archived": false,
     "fork": false,
     "is_template": false

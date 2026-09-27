@@ -1,5 +1,19 @@
 [
   {
+    "name": "Portfolio",
+    "full_name": "dalozedidier-dot/Portfolio",
+    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
+    "description": "Portfolio",
+    "language": "JavaScript",
+    "topics": [],
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-09-26T07:40:13Z",
+    "archived": false,
+    "fork": false,
+    "is_template": false
+  },
+  {
     "name": "ORI-C",
     "full_name": "dalozedidier-dot/ORI-C",
     "html_url": "https://github.com/dalozedidier-dot/ORI-C",
@@ -9,20 +23,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-09-25T21:41:42Z",
-    "archived": false,
-    "fork": false,
-    "is_template": false
-  },
-  {
-    "name": "Portfolio",
-    "full_name": "dalozedidier-dot/Portfolio",
-    "html_url": "https://github.com/dalozedidier-dot/Portfolio",
-    "description": "Portfolio",
-    "language": "JavaScript",
-    "topics": [],
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-09-25T07:47:43Z",
     "archived": false,
     "fork": false,
     "is_template": false
